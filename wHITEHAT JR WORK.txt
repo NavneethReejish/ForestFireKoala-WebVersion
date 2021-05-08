@@ -1,0 +1,21 @@
+1. The Info screens are to be having a desaturated bg1 and bg2 images as the background. - Completed -
+2. The END screen should be having a desaturated bg2 image as a background. - Completed -
+3. Finish WIN. -Completed-
+4. Alignment of the text. -Completed-
+5. Make new buttons, with page 1, 2 and 3 written, and display them on all the INFO gamestates. -Completed-
+6. Make refresh button, and direct the button to Gamestate PLAY. The button img is derived frm the trex game restart image. -Completed-
+7. Brainstorm better names. -Completed-
+8. Brainstorm a convertion indirect speech to Direct speech (koala is conversing with the player), and change the text in INFO2, AND INFO3. -Completed-
+9. Make a JumpButton and place it in the corner, to support mobile play. -Completed-
+
+Photo Editing - Desat bg1 and bg2. -Completed-
+                Make pg1, pg2, and pg3 buttons. -Completed-
+                Make a refresh button -Completed-
+                Make a JumpButton. -Completed-
+
+Total Tasks - 13
+Completed Tasks - 13
+In Progress - 0
+Pending - 0
+
+----------------X-----------------
